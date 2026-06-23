@@ -1,6 +1,6 @@
 # Hi, I’m Beke 👋🏽
 
-I work at the intersection of **data, enterprise systems, and decision-making**.
+I work at the intersection of **enterprise systems, data platforms, AI and decision-making**.
 
 My background is in **ERP, data platforms, analytics, and governance**, where I help organisations turn complex, messy operational data into **reliable, auditable insights** that leaders can actually use.
 
@@ -11,19 +11,26 @@ This GitHub is a **working portfolio** — not toy projects — showing *how I t
 ## What I work on
 
 - 📊 **Data & Analytics**
+  - Microsoft Fabric
+  - Data Engineering
   - Power BI semantic models
   - SQL-based reporting and reconciliation
   - Customer ageing, financial and operational analysis
+  - Python for Analytics and Data Platforms
 
-- 🧠 **Data Logic & Evaluation**
-  - YAML-based rules and taxonomies
+- 🧠 **AI Evaluation and Data Logic**
+  - LLM evaluation and benchmarking
+  -  YAML-based rules and taxonomies
+  -  AI Evaluation
   - Capturing human judgement in machine-readable formats
   - Evaluation schemas for AI and data quality checks
+    
 
 - 🏗️ **Enterprise Systems**
   - Dynamics 365 Finance & Operations data
   - Security, roles, audit logs, and telemetry
   - ERP reporting vs source-of-truth analysis
+  - Enterprise Automation
 
 - 📐 **Governance & Documentation**
   - Data platform governance
